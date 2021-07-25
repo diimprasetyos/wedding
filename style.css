@@ -1,0 +1,143 @@
+@media (min-width:411px) and (max-width:576px) {
+    .bg-container {
+        z-index: -1;
+        top: 0;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .images-bg {
+        max-width: 1100px;
+        margin: -10px -50px 0 -180px;
+        position: absolute;
+    }
+    .header-section {
+        margin-top: 40px;
+    }
+    .card-container {
+        border: none;
+        background: transparent;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+    }
+    .card-images {
+        padding-left: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .card-invis {
+        background: tr;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+
+    }
+    .next-btn {
+        font-family: 'Crimson Text', serif;
+        padding: 7px 0;
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        border: solid 2px #000;
+        background: #000;
+        color: #fff;
+        width: 60%;
+        transition: 0.5s;
+    }
+    .next-btn:hover {
+        font-family: 'Crimson Text', serif;
+        padding: 7px 0;
+        font-weight: 600;
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        background: transparent;
+        border: solid 2px #000;
+        color: #000;
+        width: 60%;
+        transition: 1s;
+    }
+    .title {
+        color: #fff;
+        margin-right: auto;
+        margin-left: auto;
+        font-family: 'Crimson Text', serif;
+        font-weight: 500;
+        font-size: 24px;
+    }
+    .card-info {
+        border: none;
+        justify-content: center;
+        margin: auto;
+    }
+    .center-lottie {
+        width: 50px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .title-info {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        color: #337CD6;
+        text-align: center;
+    }
+    .subtitle-info {
+        font-size: 14px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        text-align: center;
+    }
+    .text-header {
+        width: 100%;
+        text-align: center;
+    }
+    .lottie-player {
+        margin-top: 30px;
+        border: none;
+        box-shadow: 3px 6px 16px rgba(115, 115, 115, 0.10);        justify-content: center;
+    }
+    .title-card {
+        font-family: 'Roboto', sans-serif;
+        color: #00408F;
+        margin-bottom: 20px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .btn-info {
+        font-family: 'Crimson Text', serif;
+        padding: 7px 0;
+        border-radius: 5px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+    .footer-end {
+        width: 100%;
+        height: 50px;
+        background: #fff;
+        margin-top: 30px;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        padding: 15px 0;
+    }
+    .dd1 {
+        margin-bottom: 20px;
+    }
+    .maps {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .googl {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .title-home {
+        margin-top: 40px;
+        text-align: center;
+    }
+}
